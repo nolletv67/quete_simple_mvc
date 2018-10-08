@@ -5,9 +5,11 @@
  * Date: 01/10/18
  * Time: 15:23
  */
+?>
+
 <!DOCTYPE html>
 <html>
-<head> ... </head>
+<head>MVC 2</head>
 <body>
     <section>
         <h1>Items</h1>

@@ -1,0 +1,16 @@
+{
+    "name": "nollet/quete_simple_mvc",
+    "description": "\"Ceci est ma quête mvc_2\"",
+    "authors": [
+        {
+            "name": "NOLver",
+            "email": "nolletv67@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
