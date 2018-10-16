@@ -1,6 +1,5 @@
 {
     "name": "nollet/quete_simple_mvc",
-    "description": "\"Ceci est ma quête mvc_2\"",
     "authors": [
         {
             "name": "NOLver",
@@ -10,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "": "src/"
+            "":"src/"
         }
     }
 }
