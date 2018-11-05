@@ -26,5 +26,5 @@ class CategoryManager {
         // contrairement à fetchAll, fetch() ne renvoie qu'un seul résultat
         return $statement->fetch();
     }
-
 }
+?>

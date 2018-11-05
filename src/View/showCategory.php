@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name ="viewport" content="width=device-width", initial-scale="1">
 
-    <title>MVC 3</title>
+    <title>MVC 4</title>
 
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="icon" href="/assets/images/favicon.png">
@@ -13,7 +13,7 @@
 
 <body>
 <main>
-    <h1>Categorie<?= $category['name'] ?></h1>
+    <h1>Categories<?= $category['name'] ?></h1>
     <ul>
         <li>Id : <?= $category['id'] ?></li>
     </ul>

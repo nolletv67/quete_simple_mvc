@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name ="viewport" content="width=device-width", initial-scale="1">
 
-    <title>MVC 3</title>
+    <title>MVC 4</title>
 
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="icon" href="/assets/images/favicon.png">
